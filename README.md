@@ -9,7 +9,6 @@ Hi there! I’m **Marina Izabela** — a Python-powered astronomer from São Pau
 ![Python](https://img.shields.io/badge/Python-FFC0CB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-FFB6C1?style=flat&logo=postgresql&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-FF69B4?style=flat&logo=googlecloud&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power--BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Generative AI](https://img.shields.io/badge/GenAI-FF1493?style=flat&logo=openai&logoColor=white)
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=marinaizb&style=flat&color=FF69B4)
