@@ -4,7 +4,10 @@
   
 # 👩‍💻 Marina Izabela
 
+> “Somewhere, something incredible is waiting to be known.” — Carl Sagan
+
 Hi there! I’m **Marina Izabela** — an undergraduate astronomer and Python programmer from São Paulo, Brazil 🇧🇷. I've worked with Python since 2021, but mostly in the private sector! My main personal project is MiZA, a pipeline to discover Ages and Metallicities in Stellar Clusters in the Magellanic Clouds (still in progress!). 
+
 ![Python](https://img.shields.io/badge/Python-FFC0CB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-FFB6C1?style=flat&logo=postgresql&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-FF69B4?style=flat&logo=googlecloud&logoColor=white)
@@ -21,19 +24,24 @@ Hi there! I’m **Marina Izabela** — an undergraduate astronomer and Python pr
 
 ## 📊 GitHub Stats
 
+<table>
+<tr>
+<td width="50%">
+  
 ![Marina's GitHub stats](https://github-readme-stats.vercel.app/api?username=marinaizb&show_icons=true&theme=rose_pine)
-
+</td>
+<td width="60%"> 
+  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marinaizb&layout=compact&theme=rose_pine)
 
----
+</td>
+</tr>
+</table>
 
 ## 📫 Let’s connect!
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/marinaizabela/)
 - ✉️ marina.izabela.mi@gmail.com
-
-> “Somewhere, something incredible is waiting to be known.” — Carl Sagan
-
 <!--
 **marinaizb/marinaizb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
