@@ -4,8 +4,7 @@
   
 # 👩‍💻 Marina Izabela
 
-Hi there! I’m **Marina Izabela** — a Python-powered astronomer from São Paulo, Brazil 🇧🇷.
-
+Hi there! I’m **Marina Izabela** — an undergraduate astronomer and Python programmer from São Paulo, Brazil 🇧🇷. I've worked with Python since 2021, but mostly in the private sector! My main personal project is MiZA, a pipeline to discover Ages and Metallicities in Stellar Clusters in the Magellanic Clouds (still in progress!). 
 ![Python](https://img.shields.io/badge/Python-FFC0CB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-FFB6C1?style=flat&logo=postgresql&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-FF69B4?style=flat&logo=googlecloud&logoColor=white)
