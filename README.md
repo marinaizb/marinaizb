@@ -2,7 +2,7 @@
 <tr>
 <td width="70%">
   
-# 👩‍💻 Marina Izabela
+# Marina Izabela
 
 > “Somewhere, something incredible is waiting to be known.” — Carl Sagan
 
@@ -28,7 +28,7 @@ Hi there! I’m **Marina Izabela** — an undergraduate astronomer and Python pr
 <tr>
 <td width="50%">
   
-![Marina's GitHub stats](<img src="https://github-readme-streak-stats.herokuapp.com/?user=marinaizb&theme=rose_pine" alt="mystreak"/>)
+![Marina's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=marinaizb&theme=rose_pine)
 </td>
 <td width="60%"> 
   
