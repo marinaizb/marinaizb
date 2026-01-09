@@ -22,22 +22,6 @@ Hi there! I’m **Marina Izabela** — an undergraduate astronomer and Python pr
 </tr>
 </table>
 
-## 📊 GitHub Stats
-
-<table>
-<tr>
-<td width="50%">
-  
-![Marina's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=marinaizb&theme=rose_pine)
-</td>
-<td width="60%"> 
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marinaizb&layout=compact&theme=rose_pine)
-
-</td>
-</tr>
-</table>
-
 ## 📫 Let’s connect!
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/marinaizabela/)
