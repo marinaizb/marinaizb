@@ -6,7 +6,8 @@
 
 > “Somewhere, something incredible is waiting to be known.” — Carl Sagan
 
-Hi there! I’m **Marina Izabela** — an undergraduate astronomer and Python programmer from São Paulo, Brazil 🇧🇷. I've worked with Python since 2021, but mostly in the private sector! My main personal project is MiZA, a pipeline to discover Ages and Metallicities in Stellar Clusters in the Magellanic Clouds (still in progress!). 
+Hi there! I’m **Marina Izabela** — an undergraduate astronomer and Python programmer from São Paulo, Brazil 🇧🇷. I've been working with Python since 2021, but mostly in the private sector!
+Now, I am a Master's Student at IAG/USP, working with SPLUS data to characterize stellar clusters in the Magellanic Clouds. 
 
 ![Python](https://img.shields.io/badge/Python-FFC0CB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-FFB6C1?style=flat&logo=postgresql&logoColor=white)
